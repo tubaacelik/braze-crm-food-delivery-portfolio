@@ -79,7 +79,6 @@ The project was built in a Braze free-trial workspace. Canvas launch was unavail
 
 ## Portfolio links
 
-- Kaggle notebook: to be added
-- Medium case study: to be added
-- Portfolio page: to be added
-
+- Kaggle notebook: https://www.kaggle.com/code/tubacelikk1/braze-crm-food-delivery-data-preparation
+- - Medium case study: to be added
+  - - Portfolio page: https://tubacelik.co/projeler
